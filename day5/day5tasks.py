@@ -1,51 +1,51 @@
 #implement all the errors using exception handling
-# def all_errors():
-#     try:
-#         # TypeError example
-#         print("TypeError example:")
-#         x = "10" + 5  # This will raise TypeError
+def all_errors():
+    try:
+        # TypeError example
+        print("TypeError example:")
+        x = "10" + 5  # This will raise TypeError
 
-#         # ValueError example
-#         print("ValueError example:")
-#         num = int("ten")  # Invalid literal
+        # ValueError example
+        print("ValueError example:")
+        num = int("ten")  # Invalid literal
 
-#         # ZeroDivisionError example
-#         print("ZeroDivisionError example:")
-#         result = 10 / 0
+        # ZeroDivisionError example
+        print("ZeroDivisionError example:")
+        result = 10 / 0
 
-#         # IndexError example
-#         print("IndexError example:")
-#         lst = [1, 2, 3]
-#         print(lst[5])
+        # IndexError example
+        print("IndexError example:")
+        lst = [1, 2, 3]
+        print(lst[5])
 
-#         # KeyError example
-#         print("KeyError example:")
-#         d = {"a": 1}
-#         print(d["b"])
+        # KeyError example
+        print("KeyError example:")
+        d = {"a": 1}
+        print(d["b"])
 
-#         # FileNotFoundError example
-#         print("FileNotFoundError example:")
-#         with open("non_existing_file.txt", "r") as f:
-#             content = f.read()
+        # FileNotFoundError example
+        print("FileNotFoundError example:")
+        with open("non_existing_file.txt", "r") as f:
+            content = f.read()
 
-#     except TypeError as te:
-#         print("Caught TypeError:", te)
-#     except ValueError as ve:
-#         print("Caught ValueError:", ve)
-#     except ZeroDivisionError as zde:
-#         print("Caught ZeroDivisionError:", zde)
-#     except IndexError as ie:
-#         print("Caught IndexError:", ie)
-#     except KeyError as ke:
-#         print("Caught KeyError:", ke)
-#     except FileNotFoundError as fe:
-#         print("Caught FileNotFoundError:", fe)
-#     except Exception as e:
-#         print("Caught a general exception:", e)
-#     finally:
-#         print("All exceptions handled. Program ended.")
+    except TypeError as te:
+        print("Caught TypeError:", te)
+    except ValueError as ve:
+        print("Caught ValueError:", ve)
+    except ZeroDivisionError as zde:
+        print("Caught ZeroDivisionError:", zde)
+    except IndexError as ie:
+        print("Caught IndexError:", ie)
+    except KeyError as ke:
+        print("Caught KeyError:", ke)
+    except FileNotFoundError as fe:
+        print("Caught FileNotFoundError:", fe)
+    except Exception as e:
+        print("Caught a general exception:", e)
+    finally:
+        print("All exceptions handled. Program ended.")
 
-# all_errors()
+all_errors()
 
 
 #validate password
