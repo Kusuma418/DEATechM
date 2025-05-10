@@ -1,0 +1,51 @@
+transaction_id,branch_id,branch_name,city,transaction_date,amount,status,transaction_type,customer_id,error_message,bank_name,pincode
+TXN00074,B03,Hyderabad B03,Hyderabad,02-05-2025,812.39,SUCCESS,WITHDRAWAL,6753,,State Bank of India (SBI),14243
+TXN00549,B03,Hyderabad B03,Hyderabad,02-05-2025,1129.24,FAILED,WITHDRAWAL,2380,Invalid account,State Bank of India (SBI),22876
+TXN00401,B03,Hyderabad B03,Hyderabad,07-05-2025,4139.66,SUCCESS,WITHDRAWAL,3662,,State Bank of India (SBI),93156
+TXN00584,B03,Hyderabad B03,Hyderabad,07-05-2025,836.09,FAILED,DEPOSIT,3230,Transaction limit exceeded,State Bank of India (SBI),53329
+TXN00393,B03,Hyderabad B03,Hyderabad,03-05-2025,2625.82,SUCCESS,TRANSFER,3252,,State Bank of India (SBI),08042
+TXN00675,B03,Hyderabad B03,Hyderabad,06-05-2025,3135.07,FAILED,WITHDRAWAL,2929,Account blocked,State Bank of India (SBI),26519
+TXN00024,B03,Hyderabad B03,Hyderabad,08-05-2025,1820.75,SUCCESS,DEPOSIT,8433,,State Bank of India (SBI),94961
+TXN00121,B03,Hyderabad B03,Hyderabad,03-05-2025,4512.09,SUCCESS,WITHDRAWAL,3506,,State Bank of India (SBI),51460
+TXN00478,B03,Hyderabad B03,Hyderabad,08-05-2025,911.84,FAILED,WITHDRAWAL,8286,Timeout error,State Bank of India (SBI),13238
+TXN00688,B03,Hyderabad B03,Hyderabad,02-05-2025,1347.92,FAILED,WITHDRAWAL,1313,Invalid account,State Bank of India (SBI),97147
+TXN00554,B03,Hyderabad B03,Hyderabad,07-05-2025,2240.77,FAILED,TRANSFER,7895,Timeout error,State Bank of India (SBI),88119
+TXN00487,B03,Hyderabad B03,Hyderabad,02-05-2025,3290.86,FAILED,WITHDRAWAL,8212,Timeout error,State Bank of India (SBI),37959
+TXN00033,B03,Hyderabad B03,Hyderabad,05-05-2025,4548.26,SUCCESS,WITHDRAWAL,2982,,State Bank of India (SBI),80974
+TXN00245,B03,Hyderabad B03,Hyderabad,08-05-2025,1316.33,SUCCESS,DEPOSIT,7566,,State Bank of India (SBI),53971
+TXN00014,B03,Hyderabad B03,Hyderabad,03-05-2025,3596.73,SUCCESS,DEPOSIT,6313,,State Bank of India (SBI),25709
+TXN00649,B03,Hyderabad B03,Hyderabad,03-05-2025,1569.11,FAILED,TRANSFER,8785,Timeout error,State Bank of India (SBI),63095
+TXN00613,B03,Hyderabad B03,Hyderabad,07-05-2025,4891.37,FAILED,TRANSFER,8157,Account blocked,State Bank of India (SBI),19989
+TXN00624,B03,Hyderabad B03,Hyderabad,08-05-2025,833.9,FAILED,DEPOSIT,7151,Invalid account,State Bank of India (SBI),24741
+TXN00251,B03,Hyderabad B03,Hyderabad,07-05-2025,3897.24,SUCCESS,DEPOSIT,6655,,State Bank of India (SBI),83452
+TXN00570,B03,Hyderabad B03,Hyderabad,05-05-2025,4641.02,FAILED,DEPOSIT,1579,Transaction limit exceeded,State Bank of India (SBI),47758
+TXN00336,B03,Hyderabad B03,Hyderabad,02-05-2025,1208.77,SUCCESS,TRANSFER,3852,,State Bank of India (SBI),57510
+TXN00176,B03,Hyderabad B03,Hyderabad,02-05-2025,1348.94,SUCCESS,TRANSFER,4912,,State Bank of India (SBI),49946
+TXN00502,B03,Hyderabad B03,Hyderabad,06-05-2025,2549.0,FAILED,DEPOSIT,9537,Account blocked,State Bank of India (SBI),95809
+TXN00192,B03,Hyderabad B03,Hyderabad,03-05-2025,542.29,SUCCESS,WITHDRAWAL,5712,,State Bank of India (SBI),06445
+TXN00574,B03,Hyderabad B03,Hyderabad,08-05-2025,2988.91,FAILED,DEPOSIT,7044,Invalid account,State Bank of India (SBI),19795
+TXN00533,B03,Hyderabad B03,Hyderabad,04-05-2025,511.13,FAILED,TRANSFER,2526,Account blocked,State Bank of India (SBI),05259
+TXN00272,B03,Hyderabad B03,Hyderabad,08-05-2025,3401.0,SUCCESS,DEPOSIT,9307,,State Bank of India (SBI),69342
+TXN00155,B03,Hyderabad B03,Hyderabad,04-05-2025,1626.66,SUCCESS,DEPOSIT,4750,,State Bank of India (SBI),74265
+TXN00597,B03,Hyderabad B03,Hyderabad,05-05-2025,4475.41,FAILED,DEPOSIT,5026,Timeout error,State Bank of India (SBI),35287
+TXN00280,B03,Hyderabad B03,Hyderabad,03-05-2025,4332.05,SUCCESS,TRANSFER,3463,,State Bank of India (SBI),69448
+TXN00184,B03,Hyderabad B03,Hyderabad,03-05-2025,3734.23,SUCCESS,WITHDRAWAL,9864,,State Bank of India (SBI),79308
+TXN00055,B03,Hyderabad B03,Hyderabad,02-05-2025,4710.8,SUCCESS,DEPOSIT,8508,,State Bank of India (SBI),82872
+TXN00545,B03,Hyderabad B03,Hyderabad,07-05-2025,2222.24,FAILED,DEPOSIT,3340,Insufficient funds,State Bank of India (SBI),46759
+TXN00127,B03,Hyderabad B03,Hyderabad,06-05-2025,1758.46,SUCCESS,TRANSFER,5526,,State Bank of India (SBI),91436
+TXN00642,B03,Hyderabad B03,Hyderabad,03-05-2025,4613.78,FAILED,DEPOSIT,2425,Account blocked,State Bank of India (SBI),12356
+TXN00110,B03,Hyderabad B03,Hyderabad,02-05-2025,4780.42,SUCCESS,WITHDRAWAL,5133,,State Bank of India (SBI),18010
+TXN00420,B03,Hyderabad B03,Hyderabad,02-05-2025,513.57,SUCCESS,DEPOSIT,2196,,State Bank of India (SBI),44010
+TXN00364,B03,Hyderabad B03,Hyderabad,02-05-2025,2314.64,SUCCESS,DEPOSIT,7563,,State Bank of India (SBI),33682
+TXN00459,B03,Hyderabad B03,Hyderabad,08-05-2025,3280.26,FAILED,TRANSFER,8916,Account blocked,State Bank of India (SBI),60145
+TXN00587,B03,Hyderabad B03,Hyderabad,02-05-2025,1039.61,FAILED,DEPOSIT,5984,Transaction limit exceeded,State Bank of India (SBI),02523
+TXN00564,B03,Hyderabad B03,Hyderabad,04-05-2025,2827.5,FAILED,TRANSFER,5247,Invalid account,State Bank of India (SBI),92551
+TXN00329,B03,Hyderabad B03,Hyderabad,05-05-2025,3933.88,SUCCESS,TRANSFER,3255,,State Bank of India (SBI),92803
+TXN00255,B03,Hyderabad B03,Hyderabad,08-05-2025,534.78,SUCCESS,TRANSFER,8055,,State Bank of India (SBI),91095
+TXN00322,B03,Hyderabad B03,Hyderabad,08-05-2025,860.31,SUCCESS,TRANSFER,5843,,State Bank of India (SBI),74575
+TXN00664,B03,Hyderabad B03,Hyderabad,05-05-2025,1633.99,FAILED,WITHDRAWAL,5950,Transaction limit exceeded,State Bank of India (SBI),39711
+TXN00368,B03,Hyderabad B03,Hyderabad,04-05-2025,4725.27,SUCCESS,DEPOSIT,4261,,State Bank of India (SBI),71458
+TXN00583,B03,Hyderabad B03,Hyderabad,02-05-2025,2268.29,FAILED,TRANSFER,6345,Timeout error,State Bank of India (SBI),61455
+TXN00061,B03,Hyderabad B03,Hyderabad,04-05-2025,1447.83,SUCCESS,WITHDRAWAL,4335,,State Bank of India (SBI),48530
+TXN00449,B03,Hyderabad B03,Hyderabad,04-05-2025,4472.65,SUCCESS,WITHDRAWAL,2615,,State Bank of India (SBI),77617
+TXN00047,B03,Hyderabad B03,Hyderabad,05-05-2025,3634.66,SUCCESS,TRANSFER,8973,,State Bank of India (SBI),78939

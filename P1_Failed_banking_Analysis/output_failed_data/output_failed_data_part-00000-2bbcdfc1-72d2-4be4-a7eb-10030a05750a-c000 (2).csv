@@ -1,0 +1,246 @@
+transaction_id,branch_id,branch_name,city,transaction_date,amount,status,transaction_type,customer_id,error_message,bank_name,pincode
+TXN00490,B03,Kadapa B03,Kadapa,05-05-2025,1761.35,FAILED,WITHDRAWAL,6980,Insufficient funds,State Bank of India (SBI),15628
+TXN00641,B01,Hyderabad B01,Hyderabad,03-05-2025,2459.27,FAILED,TRANSFER,3422,Transaction limit exceeded,State Bank of India (SBI),89233
+TXN00518,B04,Kadapa B04,Kadapa,07-05-2025,1378.08,FAILED,WITHDRAWAL,9281,Account blocked,State Bank of India (SBI),3359
+TXN00591,B01,Hyderabad B01,Hyderabad,02-05-2025,4072.14,FAILED,DEPOSIT,1195,Insufficient funds,State Bank of India (SBI),62793
+TXN00638,B04,Kadapa B04,Kadapa,06-05-2025,855.3,FAILED,TRANSFER,1568,Transaction limit exceeded,State Bank of India (SBI),26121
+TXN00637,B04,Kadapa B04,Kadapa,02-05-2025,2851.62,FAILED,TRANSFER,8779,Transaction limit exceeded,State Bank of India (SBI),92400
+TXN00659,B03,Kadapa B03,Kadapa,03-05-2025,4238.92,FAILED,DEPOSIT,5670,Insufficient funds,State Bank of India (SBI),97814
+TXN00578,B01,Hyderabad B01,Hyderabad,02-05-2025,3457.87,FAILED,TRANSFER,6038,Insufficient funds,State Bank of India (SBI),44926
+TXN00586,B05,Kadapa B05,Kadapa,06-05-2025,4840.86,FAILED,DEPOSIT,8404,Timeout error,State Bank of India (SBI),80590
+TXN00510,B05,Kadapa B05,Kadapa,07-05-2025,2146.07,FAILED,DEPOSIT,8496,Insufficient funds,State Bank of India (SBI),80649
+TXN00514,B01,Hyderabad B01,Hyderabad,07-05-2025,2179.88,FAILED,DEPOSIT,9369,Account blocked,State Bank of India (SBI),45195
+TXN00467,B04,Kadapa B04,Kadapa,02-05-2025,2452.59,FAILED,WITHDRAWAL,2562,Transaction limit exceeded,State Bank of India (SBI),43917
+TXN00498,B01,Hyderabad B01,Hyderabad,08-05-2025,943.73,FAILED,DEPOSIT,9366,Transaction limit exceeded,State Bank of India (SBI),11479
+TXN00497,B03,Kadapa B03,Kadapa,07-05-2025,3411.5,FAILED,DEPOSIT,7547,Timeout error,State Bank of India (SBI),93755
+TXN00552,B01,Chennai B01,Chennai,02-05-2025,4540.61,FAILED,DEPOSIT,9108,Account blocked,State Bank of India (SBI),80487
+TXN00557,B05,Hyderabad B05,Hyderabad,02-05-2025,2369.44,FAILED,TRANSFER,7590,Insufficient funds,State Bank of India (SBI),34598
+TXN00651,B01,Hyderabad B01,Hyderabad,02-05-2025,1525.81,FAILED,WITHDRAWAL,8259,Timeout error,State Bank of India (SBI),71008
+TXN00477,B01,Chennai B01,Chennai,08-05-2025,1705.87,FAILED,WITHDRAWAL,3527,Account blocked,State Bank of India (SBI),560
+TXN00567,B05,Hyderabad B05,Hyderabad,06-05-2025,749.48,FAILED,TRANSFER,3734,Timeout error,State Bank of India (SBI),14045
+TXN00460,B01,Kadapa B01,Kadapa,04-05-2025,2982.4,FAILED,DEPOSIT,1274,Transaction limit exceeded,State Bank of India (SBI),23024
+TXN00540,B04,Kadapa B04,Kadapa,03-05-2025,1874.79,FAILED,TRANSFER,4836,Account blocked,State Bank of India (SBI),65439
+TXN00538,B04,Kadapa B04,Kadapa,07-05-2025,4980.62,FAILED,DEPOSIT,5945,Invalid account,State Bank of India (SBI),26994
+TXN00531,B05,Kadapa B05,Kadapa,03-05-2025,1709.23,FAILED,WITHDRAWAL,7146,Account blocked,State Bank of India (SBI),51156
+TXN00600,B04,Kadapa B04,Kadapa,02-05-2025,3710.17,FAILED,WITHDRAWAL,9921,Account blocked,State Bank of India (SBI),50925
+TXN00542,B05,Kadapa B05,Kadapa,07-05-2025,2837.5,FAILED,WITHDRAWAL,1152,Insufficient funds,State Bank of India (SBI),37039
+TXN00496,B03,Kadapa B03,Kadapa,03-05-2025,4529.76,FAILED,TRANSFER,2392,Insufficient funds,State Bank of India (SBI),94716
+TXN00690,B03,Kadapa B03,Kadapa,03-05-2025,3427.43,FAILED,DEPOSIT,7147,Timeout error,State Bank of India (SBI),41730
+TXN00537,B04,Kadapa B04,Kadapa,08-05-2025,1059.07,FAILED,DEPOSIT,8230,Account blocked,State Bank of India (SBI),88533
+TXN00562,B04,Kadapa B04,Kadapa,08-05-2025,2540.17,FAILED,TRANSFER,1901,Timeout error,State Bank of India (SBI),3018
+TXN00524,B01,Hyderabad B01,Hyderabad,05-05-2025,1682.67,FAILED,DEPOSIT,8193,Insufficient funds,State Bank of India (SBI),74292
+TXN00580,B01,Kadapa B01,Kadapa,07-05-2025,4537.79,FAILED,TRANSFER,7767,Timeout error,State Bank of India (SBI),2154
+TXN00529,B01,Hyderabad B01,Hyderabad,06-05-2025,4401.71,FAILED,DEPOSIT,3174,Invalid account,State Bank of India (SBI),63264
+TXN00522,B01,Chennai B01,Chennai,04-05-2025,1013.93,FAILED,TRANSFER,7010,Transaction limit exceeded,State Bank of India (SBI),59092
+TXN00683,B01,Kadapa B01,Kadapa,04-05-2025,1397.36,FAILED,WITHDRAWAL,1230,Timeout error,State Bank of India (SBI),3068
+TXN00501,B03,Kadapa B03,Kadapa,05-05-2025,4642.46,FAILED,DEPOSIT,2901,Invalid account,State Bank of India (SBI),16828
+TXN00512,B05,Hyderabad B05,Hyderabad,08-05-2025,2065.66,FAILED,WITHDRAWAL,3826,Timeout error,State Bank of India (SBI),747
+TXN00601,B05,Hyderabad B05,Hyderabad,04-05-2025,1947.22,FAILED,WITHDRAWAL,3946,Insufficient funds,State Bank of India (SBI),20079
+TXN00581,B01,Hyderabad B01,Hyderabad,04-05-2025,930.1,FAILED,DEPOSIT,7461,Insufficient funds,State Bank of India (SBI),65641
+TXN00632,B03,Kadapa B03,Kadapa,02-05-2025,2288.6,FAILED,WITHDRAWAL,5341,Insufficient funds,State Bank of India (SBI),64091
+TXN00655,B01,Chennai B01,Chennai,07-05-2025,1367.44,FAILED,DEPOSIT,1944,Invalid account,State Bank of India (SBI),21765
+TXN00611,B05,Kadapa B05,Kadapa,03-05-2025,4627.51,FAILED,DEPOSIT,9622,Timeout error,State Bank of India (SBI),43269
+TXN00573,B05,Kadapa B05,Kadapa,08-05-2025,4793.36,FAILED,DEPOSIT,8620,Timeout error,State Bank of India (SBI),31269
+TXN00630,B03,Kadapa B03,Kadapa,08-05-2025,2424.23,FAILED,WITHDRAWAL,8869,Invalid account,State Bank of India (SBI),4751
+TXN00560,B05,Hyderabad B05,Hyderabad,03-05-2025,3934.51,FAILED,TRANSFER,2083,Timeout error,State Bank of India (SBI),25359
+TXN00674,B01,Chennai B01,Chennai,07-05-2025,2098.78,FAILED,TRANSFER,6031,Account blocked,State Bank of India (SBI),64245
+TXN00541,B01,Chennai B01,Chennai,03-05-2025,928.33,FAILED,DEPOSIT,8812,Insufficient funds,State Bank of India (SBI),53502
+TXN00465,B01,Chennai B01,Chennai,03-05-2025,4962.54,FAILED,TRANSFER,1519,Insufficient funds,State Bank of India (SBI),92244
+TXN00456,B05,Kadapa B05,Kadapa,05-05-2025,1328.21,FAILED,TRANSFER,1962,Transaction limit exceeded,State Bank of India (SBI),98112
+TXN00506,B05,Kadapa B05,Kadapa,07-05-2025,1989.45,FAILED,WITHDRAWAL,8570,Invalid account,State Bank of India (SBI),62669
+TXN00650,B01,Hyderabad B01,Hyderabad,06-05-2025,4178.24,FAILED,WITHDRAWAL,6094,Timeout error,State Bank of India (SBI),31369
+TXN00577,B01,Kadapa B01,Kadapa,05-05-2025,607.6,FAILED,TRANSFER,6675,Insufficient funds,State Bank of India (SBI),12389
+TXN00470,B01,Hyderabad B01,Hyderabad,07-05-2025,3141.66,FAILED,TRANSFER,7525,Insufficient funds,State Bank of India (SBI),66692
+TXN00574,B03,Hyderabad B03,Hyderabad,08-05-2025,2988.91,FAILED,DEPOSIT,7044,Invalid account,State Bank of India (SBI),19795
+TXN00558,B05,Chennai B05,Chennai,04-05-2025,3272.21,FAILED,WITHDRAWAL,2369,Timeout error,State Bank of India (SBI),14161
+TXN00615,B05,Chennai B05,Chennai,02-05-2025,1289.08,FAILED,WITHDRAWAL,5825,Invalid account,State Bank of India (SBI),47200
+TXN00652,B04,Hyderabad B04,Hyderabad,04-05-2025,3405.0,FAILED,DEPOSIT,8237,Invalid account,State Bank of India (SBI),56108
+TXN00485,B04,Hyderabad B04,Hyderabad,02-05-2025,846.15,FAILED,WITHDRAWAL,5040,Account blocked,State Bank of India (SBI),65804
+TXN00623,B02,Chennai B02,Chennai,07-05-2025,2530.79,FAILED,DEPOSIT,5831,Insufficient funds,State Bank of India (SBI),5722
+TXN00691,B05,Chennai B05,Chennai,08-05-2025,3172.66,FAILED,DEPOSIT,2771,Insufficient funds,State Bank of India (SBI),19061
+TXN00571,B04,Chennai B04,Chennai,07-05-2025,1948.11,FAILED,WITHDRAWAL,6241,Timeout error,State Bank of India (SBI),91598
+TXN00476,B05,Chennai B05,Chennai,03-05-2025,2210.33,FAILED,TRANSFER,5839,Invalid account,State Bank of India (SBI),33309
+TXN00613,B03,Hyderabad B03,Hyderabad,07-05-2025,4891.37,FAILED,TRANSFER,8157,Account blocked,State Bank of India (SBI),19989
+TXN00697,B04,Hyderabad B04,Hyderabad,06-05-2025,1221.68,FAILED,TRANSFER,9132,Invalid account,State Bank of India (SBI),9906
+TXN00686,B02,Hyderabad B02,Hyderabad,08-05-2025,4207.3,FAILED,WITHDRAWAL,5764,Account blocked,State Bank of India (SBI),45158
+TXN00511,B04,Hyderabad B04,Hyderabad,04-05-2025,4846.62,FAILED,WITHDRAWAL,7367,Transaction limit exceeded,State Bank of India (SBI),15355
+TXN00554,B03,Hyderabad B03,Hyderabad,07-05-2025,2240.77,FAILED,TRANSFER,7895,Timeout error,State Bank of India (SBI),88119
+TXN00533,B03,Hyderabad B03,Hyderabad,04-05-2025,511.13,FAILED,TRANSFER,2526,Account blocked,State Bank of India (SBI),5259
+TXN00645,B02,Kadapa B02,Kadapa,04-05-2025,3145.7,FAILED,DEPOSIT,2730,Transaction limit exceeded,State Bank of India (SBI),39942
+TXN00563,B02,Chennai B02,Chennai,08-05-2025,556.99,FAILED,DEPOSIT,1185,Invalid account,State Bank of India (SBI),77798
+TXN00458,B02,Chennai B02,Chennai,08-05-2025,3682.26,FAILED,DEPOSIT,4583,Transaction limit exceeded,State Bank of India (SBI),88619
+TXN00466,B04,Hyderabad B04,Hyderabad,05-05-2025,2987.16,FAILED,DEPOSIT,1154,Invalid account,State Bank of India (SBI),46166
+TXN00675,B03,Hyderabad B03,Hyderabad,06-05-2025,3135.07,FAILED,WITHDRAWAL,2929,Account blocked,State Bank of India (SBI),26519
+TXN00680,B02,Hyderabad B02,Hyderabad,06-05-2025,3355.25,FAILED,DEPOSIT,8406,Timeout error,State Bank of India (SBI),22544
+TXN00681,B02,Kadapa B02,Kadapa,04-05-2025,3940.18,FAILED,WITHDRAWAL,2442,Invalid account,State Bank of India (SBI),77477
+TXN00493,B04,Chennai B04,Chennai,07-05-2025,3350.01,FAILED,DEPOSIT,5139,Invalid account,State Bank of India (SBI),53532
+TXN00585,B02,Kadapa B02,Kadapa,08-05-2025,1239.69,FAILED,WITHDRAWAL,6145,Account blocked,State Bank of India (SBI),71000
+TXN00617,B03,Chennai B03,Chennai,02-05-2025,4853.89,FAILED,DEPOSIT,2705,Account blocked,State Bank of India (SBI),98735
+TXN00484,B04,Hyderabad B04,Hyderabad,07-05-2025,784.7,FAILED,WITHDRAWAL,5521,Account blocked,State Bank of India (SBI),35970
+TXN00610,B02,Hyderabad B02,Hyderabad,02-05-2025,4299.28,FAILED,WITHDRAWAL,1975,Insufficient funds,State Bank of India (SBI),35679
+TXN00606,B03,Chennai B03,Chennai,02-05-2025,3821.47,FAILED,WITHDRAWAL,1462,Timeout error,State Bank of India (SBI),21213
+TXN00598,B04,Hyderabad B04,Hyderabad,04-05-2025,2655.64,FAILED,DEPOSIT,5583,Account blocked,State Bank of India (SBI),58142
+TXN00487,B03,Hyderabad B03,Hyderabad,02-05-2025,3290.86,FAILED,WITHDRAWAL,8212,Timeout error,State Bank of India (SBI),37959
+TXN00597,B03,Hyderabad B03,Hyderabad,05-05-2025,4475.41,FAILED,DEPOSIT,5026,Timeout error,State Bank of India (SBI),35287
+TXN00544,B02,Kadapa B02,Kadapa,05-05-2025,901.99,FAILED,DEPOSIT,2690,Timeout error,State Bank of India (SBI),97495
+TXN00640,B02,Hyderabad B02,Hyderabad,07-05-2025,4874.74,FAILED,DEPOSIT,3067,Insufficient funds,State Bank of India (SBI),31121
+TXN00668,B02,Kadapa B02,Kadapa,04-05-2025,3944.63,FAILED,DEPOSIT,7620,Timeout error,State Bank of India (SBI),75757
+TXN00636,B03,Chennai B03,Chennai,02-05-2025,2936.52,FAILED,TRANSFER,4727,Transaction limit exceeded,State Bank of India (SBI),98924
+TXN00587,B03,Hyderabad B03,Hyderabad,02-05-2025,1039.61,FAILED,DEPOSIT,5984,Transaction limit exceeded,State Bank of India (SBI),2523
+TXN00543,B03,Chennai B03,Chennai,02-05-2025,1042.67,FAILED,WITHDRAWAL,3165,Account blocked,State Bank of India (SBI),75402
+TXN00499,B05,Chennai B05,Chennai,03-05-2025,3088.56,FAILED,WITHDRAWAL,7129,Account blocked,State Bank of India (SBI),20323
+TXN00624,B03,Hyderabad B03,Hyderabad,08-05-2025,833.9,FAILED,DEPOSIT,7151,Invalid account,State Bank of India (SBI),24741
+TXN00526,B04,Chennai B04,Chennai,07-05-2025,3272.68,FAILED,DEPOSIT,4390,Insufficient funds,State Bank of India (SBI),6099
+TXN00527,B03,Chennai B03,Chennai,04-05-2025,1764.88,FAILED,TRANSFER,3758,Timeout error,State Bank of India (SBI),69772
+TXN00693,B02,Hyderabad B02,Hyderabad,07-05-2025,3628.36,FAILED,TRANSFER,1152,Timeout error,State Bank of India (SBI),69400
+TXN00648,B02,Hyderabad B02,Hyderabad,04-05-2025,3238.95,FAILED,TRANSFER,7581,Insufficient funds,State Bank of India (SBI),54940
+TXN00546,B05,Chennai B05,Chennai,08-05-2025,3246.44,FAILED,DEPOSIT,8210,Timeout error,State Bank of India (SBI),37772
+TXN00688,B03,Hyderabad B03,Hyderabad,02-05-2025,1347.92,FAILED,WITHDRAWAL,1313,Invalid account,State Bank of India (SBI),97147
+TXN00657,B04,Hyderabad B04,Hyderabad,04-05-2025,2286.24,FAILED,DEPOSIT,1500,Invalid account,State Bank of India (SBI),65094
+TXN00528,B03,Chennai B03,Chennai,06-05-2025,3077.31,FAILED,TRANSFER,2560,Invalid account,State Bank of India (SBI),13774
+TXN00649,B03,Hyderabad B03,Hyderabad,03-05-2025,1569.11,FAILED,TRANSFER,8785,Timeout error,State Bank of India (SBI),63095
+TXN00491,B02,Chennai B02,Chennai,04-05-2025,4987.69,FAILED,DEPOSIT,1440,Account blocked,State Bank of India (SBI),99661
+TXN00509,B02,Chennai B02,Chennai,07-05-2025,1752.55,FAILED,TRANSFER,2025,Transaction limit exceeded,State Bank of India (SBI),25249
+TXN00629,B02,Hyderabad B02,Hyderabad,08-05-2025,723.36,FAILED,TRANSFER,9043,Invalid account,State Bank of India (SBI),84419
+TXN00535,B02,Hyderabad B02,Hyderabad,05-05-2025,1708.42,FAILED,WITHDRAWAL,6533,Transaction limit exceeded,State Bank of India (SBI),41299
+TXN00549,B03,Hyderabad B03,Hyderabad,02-05-2025,1129.24,FAILED,WITHDRAWAL,2380,Invalid account,State Bank of India (SBI),22876
+TXN00607,B05,Chennai B05,Chennai,07-05-2025,3033.99,FAILED,DEPOSIT,9064,Transaction limit exceeded,State Bank of India (SBI),29594
+TXN00633,B05,Chennai B05,Chennai,05-05-2025,1331.97,FAILED,WITHDRAWAL,7052,Invalid account,State Bank of India (SBI),33368
+TXN00665,B04,Chennai B04,Chennai,04-05-2025,960.4,FAILED,TRANSFER,7131,Transaction limit exceeded,State Bank of India (SBI),53021
+TXN00689,B02,Kadapa B02,Kadapa,07-05-2025,3803.34,FAILED,TRANSFER,9267,Invalid account,State Bank of India (SBI),48518
+TXN00669,B02,Chennai B02,Chennai,03-05-2025,614.55,FAILED,WITHDRAWAL,5843,Timeout error,State Bank of India (SBI),87745
+TXN00696,B02,Hyderabad B02,Hyderabad,04-05-2025,1398.87,FAILED,WITHDRAWAL,9571,Invalid account,State Bank of India (SBI),50635
+TXN00605,B04,Chennai B04,Chennai,06-05-2025,4708.43,FAILED,DEPOSIT,3885,Invalid account,State Bank of India (SBI),44458
+TXN00647,B04,Hyderabad B04,Hyderabad,04-05-2025,3240.33,FAILED,DEPOSIT,3821,Timeout error,State Bank of India (SBI),31885
+TXN00480,B05,Chennai B05,Chennai,05-05-2025,964.82,FAILED,DEPOSIT,6798,Transaction limit exceeded,State Bank of India (SBI),66135
+TXN00463,B03,Chennai B03,Chennai,02-05-2025,2094.98,FAILED,WITHDRAWAL,2294,Timeout error,State Bank of India (SBI),62855
+TXN00678,B02,Kadapa B02,Kadapa,07-05-2025,4965.57,FAILED,WITHDRAWAL,7704,Transaction limit exceeded,State Bank of India (SBI),53979
+TXN00658,B04,Hyderabad B04,Hyderabad,04-05-2025,2507.47,FAILED,WITHDRAWAL,6730,Timeout error,State Bank of India (SBI),40714
+TXN00500,B05,Hyderabad B05,Hyderabad,03-05-2025,2752.1,FAILED,WITHDRAWAL,1402,Account blocked,State Bank of India (SBI),63412
+TXN00479,B01,Hyderabad B01,Hyderabad,07-05-2025,892.84,FAILED,WITHDRAWAL,8353,Transaction limit exceeded,State Bank of India (SBI),80040
+TXN00548,B01,Kadapa B01,Kadapa,07-05-2025,3886.01,FAILED,TRANSFER,7291,Timeout error,State Bank of India (SBI),48068
+TXN00692,B01,Kadapa B01,Kadapa,05-05-2025,2499.41,FAILED,DEPOSIT,9966,Timeout error,State Bank of India (SBI),27872
+TXN00462,B01,Kadapa B01,Kadapa,08-05-2025,2859.73,FAILED,DEPOSIT,4144,Transaction limit exceeded,State Bank of India (SBI),33108
+TXN00596,B04,Kadapa B04,Kadapa,03-05-2025,2419.99,FAILED,WITHDRAWAL,4517,Invalid account,State Bank of India (SBI),91048
+TXN00504,B03,Kadapa B03,Kadapa,08-05-2025,4145.84,FAILED,DEPOSIT,1370,Timeout error,State Bank of India (SBI),91863
+TXN00631,B01,Kadapa B01,Kadapa,07-05-2025,1268.74,FAILED,WITHDRAWAL,2342,Account blocked,State Bank of India (SBI),79762
+TXN00599,B04,Kadapa B04,Kadapa,07-05-2025,3391.94,FAILED,TRANSFER,5082,Transaction limit exceeded,State Bank of India (SBI),70622
+TXN00539,B01,Hyderabad B01,Hyderabad,03-05-2025,2121.96,FAILED,DEPOSIT,7092,Invalid account,State Bank of India (SBI),89315
+TXN00568,B03,Kadapa B03,Kadapa,02-05-2025,963.07,FAILED,TRANSFER,2889,Invalid account,State Bank of India (SBI),29759
+TXN00595,B01,Hyderabad B01,Hyderabad,07-05-2025,4658.59,FAILED,WITHDRAWAL,7471,Account blocked,State Bank of India (SBI),19083
+TXN00694,B01,Hyderabad B01,Hyderabad,03-05-2025,2841.39,FAILED,TRANSFER,3247,Account blocked,State Bank of India (SBI),47625
+TXN00523,B04,Kadapa B04,Kadapa,04-05-2025,1483.44,FAILED,WITHDRAWAL,2677,Invalid account,State Bank of India (SBI),87580
+TXN00695,B05,Kadapa B05,Kadapa,03-05-2025,3279.64,FAILED,WITHDRAWAL,2867,Insufficient funds,State Bank of India (SBI),67195
+TXN00612,B03,Kadapa B03,Kadapa,03-05-2025,4738.65,FAILED,WITHDRAWAL,2655,Timeout error,State Bank of India (SBI),12079
+TXN00515,B05,Hyderabad B05,Hyderabad,07-05-2025,3086.63,FAILED,WITHDRAWAL,4043,Account blocked,State Bank of India (SBI),80776
+TXN00469,B01,Kadapa B01,Kadapa,03-05-2025,4665.13,FAILED,TRANSFER,1539,Invalid account,State Bank of India (SBI),29671
+TXN00532,B01,Kadapa B01,Kadapa,05-05-2025,2820.26,FAILED,WITHDRAWAL,7046,Account blocked,State Bank of India (SBI),15281
+TXN00634,B01,Hyderabad B01,Hyderabad,06-05-2025,2478.83,FAILED,WITHDRAWAL,4706,Timeout error,State Bank of India (SBI),95296
+TXN00635,B01,Chennai B01,Chennai,07-05-2025,3885.06,FAILED,TRANSFER,2584,Insufficient funds,State Bank of India (SBI),1769
+TXN00602,B05,Hyderabad B05,Hyderabad,07-05-2025,631.87,FAILED,WITHDRAWAL,1959,Account blocked,State Bank of India (SBI),64786
+TXN00594,B01,Kadapa B01,Kadapa,02-05-2025,4232.1,FAILED,WITHDRAWAL,3007,Insufficient funds,State Bank of India (SBI),14214
+TXN00551,B05,Kadapa B05,Kadapa,04-05-2025,2792.85,FAILED,TRANSFER,7418,Timeout error,State Bank of India (SBI),40246
+TXN00530,B03,Kadapa B03,Kadapa,02-05-2025,1614.0,FAILED,TRANSFER,7434,Account blocked,State Bank of India (SBI),20737
+TXN00620,B03,Kadapa B03,Kadapa,07-05-2025,1622.93,FAILED,DEPOSIT,6742,Timeout error,State Bank of India (SBI),34268
+TXN00579,B05,Kadapa B05,Kadapa,07-05-2025,2389.17,FAILED,DEPOSIT,3332,Timeout error,State Bank of India (SBI),57228
+TXN00616,B01,Kadapa B01,Kadapa,03-05-2025,4769.14,FAILED,WITHDRAWAL,1530,Invalid account,State Bank of India (SBI),91595
+TXN00646,B03,Kadapa B03,Kadapa,02-05-2025,2910.35,FAILED,WITHDRAWAL,7732,Timeout error,State Bank of India (SBI),59886
+TXN00556,B01,Kadapa B01,Kadapa,06-05-2025,1470.84,FAILED,DEPOSIT,7520,Transaction limit exceeded,State Bank of India (SBI),49401
+TXN00609,B01,Kadapa B01,Kadapa,04-05-2025,2650.95,FAILED,WITHDRAWAL,4300,Invalid account,State Bank of India (SBI),79371
+TXN00520,B05,Kadapa B05,Kadapa,08-05-2025,4081.46,FAILED,DEPOSIT,5785,Insufficient funds,State Bank of India (SBI),42891
+TXN00590,B04,Kadapa B04,Kadapa,02-05-2025,2534.91,FAILED,TRANSFER,5093,Insufficient funds,State Bank of India (SBI),8241
+TXN00660,B01,Hyderabad B01,Hyderabad,07-05-2025,4342.2,FAILED,DEPOSIT,4626,Invalid account,State Bank of India (SBI),61981
+TXN00575,B05,Hyderabad B05,Hyderabad,02-05-2025,1867.59,FAILED,TRANSFER,4974,Account blocked,State Bank of India (SBI),37473
+TXN00618,B03,Kadapa B03,Kadapa,03-05-2025,850.13,FAILED,WITHDRAWAL,6234,Invalid account,State Bank of India (SBI),26579
+TXN00621,B01,Kadapa B01,Kadapa,08-05-2025,2236.72,FAILED,TRANSFER,7875,Invalid account,State Bank of India (SBI),12141
+TXN00656,B04,Kadapa B04,Kadapa,08-05-2025,4631.14,FAILED,TRANSFER,4262,Timeout error,State Bank of India (SBI),43703
+TXN00644,B05,Kadapa B05,Kadapa,04-05-2025,2851.53,FAILED,WITHDRAWAL,2843,Account blocked,State Bank of India (SBI),93483
+TXN00676,B05,Kadapa B05,Kadapa,04-05-2025,4749.35,FAILED,DEPOSIT,8736,Invalid account,State Bank of India (SBI),85096
+TXN00488,B05,Hyderabad B05,Hyderabad,07-05-2025,1851.96,FAILED,TRANSFER,4290,Account blocked,State Bank of India (SBI),66256
+TXN00572,B05,Kadapa B05,Kadapa,06-05-2025,1037.3,FAILED,TRANSFER,1862,Invalid account,State Bank of India (SBI),70261
+TXN00667,B03,Kadapa B03,Kadapa,06-05-2025,3382.68,FAILED,WITHDRAWAL,5278,Timeout error,State Bank of India (SBI),29784
+TXN00625,B01,Chennai B01,Chennai,04-05-2025,4738.25,FAILED,DEPOSIT,6536,Transaction limit exceeded,State Bank of India (SBI),87226
+TXN00559,B05,Kadapa B05,Kadapa,07-05-2025,4884.41,FAILED,DEPOSIT,9788,Timeout error,State Bank of India (SBI),29518
+TXN00505,B01,Chennai B01,Chennai,03-05-2025,4100.23,FAILED,TRANSFER,4996,Transaction limit exceeded,State Bank of India (SBI),57407
+TXN00495,B05,Hyderabad B05,Hyderabad,04-05-2025,4655.73,FAILED,TRANSFER,7853,Transaction limit exceeded,State Bank of India (SBI),84016
+TXN00654,B01,Kadapa B01,Kadapa,06-05-2025,3693.06,FAILED,WITHDRAWAL,3222,Transaction limit exceeded,State Bank of India (SBI),27586
+TXN00457,B01,Kadapa B01,Kadapa,02-05-2025,3506.97,FAILED,DEPOSIT,7756,Invalid account,State Bank of India (SBI),4207
+TXN00576,B05,Hyderabad B05,Hyderabad,05-05-2025,4990.04,FAILED,DEPOSIT,9954,Invalid account,State Bank of India (SBI),16727
+TXN00619,B01,Chennai B01,Chennai,02-05-2025,3690.35,FAILED,TRANSFER,6500,Account blocked,State Bank of India (SBI),56066
+TXN00584,B03,Hyderabad B03,Hyderabad,07-05-2025,836.09,FAILED,DEPOSIT,3230,Transaction limit exceeded,State Bank of India (SBI),53329
+TXN00550,B05,Chennai B05,Chennai,04-05-2025,3745.31,FAILED,WITHDRAWAL,1439,Timeout error,State Bank of India (SBI),33637
+TXN00519,B04,Hyderabad B04,Hyderabad,05-05-2025,3695.64,FAILED,WITHDRAWAL,9006,Invalid account,State Bank of India (SBI),51911
+TXN00592,B02,Kadapa B02,Kadapa,07-05-2025,4206.53,FAILED,WITHDRAWAL,2376,Transaction limit exceeded,State Bank of India (SBI),54697
+TXN00653,B04,Hyderabad B04,Hyderabad,02-05-2025,2824.26,FAILED,WITHDRAWAL,1920,Transaction limit exceeded,State Bank of India (SBI),85028
+TXN00561,B04,Chennai B04,Chennai,03-05-2025,4790.43,FAILED,DEPOSIT,1948,Invalid account,State Bank of India (SBI),8966
+TXN00664,B03,Hyderabad B03,Hyderabad,05-05-2025,1633.99,FAILED,WITHDRAWAL,5950,Transaction limit exceeded,State Bank of India (SBI),39711
+TXN00639,B05,Chennai B05,Chennai,02-05-2025,3071.68,FAILED,TRANSFER,3415,Insufficient funds,State Bank of India (SBI),15023
+TXN00503,B04,Hyderabad B04,Hyderabad,08-05-2025,2471.75,FAILED,TRANSFER,8412,Timeout error,State Bank of India (SBI),87892
+TXN00502,B03,Hyderabad B03,Hyderabad,06-05-2025,2549.0,FAILED,DEPOSIT,9537,Account blocked,State Bank of India (SBI),95809
+TXN00461,B03,Chennai B03,Chennai,04-05-2025,4898.66,FAILED,DEPOSIT,9228,Account blocked,State Bank of India (SBI),78508
+TXN00698,B04,Chennai B04,Chennai,06-05-2025,1555.27,FAILED,DEPOSIT,2458,Insufficient funds,State Bank of India (SBI),57396
+TXN00482,B04,Hyderabad B04,Hyderabad,02-05-2025,881.15,FAILED,TRANSFER,4977,Transaction limit exceeded,State Bank of India (SBI),41933
+TXN00627,B02,Hyderabad B02,Hyderabad,08-05-2025,955.66,FAILED,DEPOSIT,4112,Account blocked,State Bank of India (SBI),82047
+TXN00478,B03,Hyderabad B03,Hyderabad,08-05-2025,911.84,FAILED,WITHDRAWAL,8286,Timeout error,State Bank of India (SBI),13238
+TXN00622,B04,Hyderabad B04,Hyderabad,05-05-2025,2080.54,FAILED,WITHDRAWAL,2661,Account blocked,State Bank of India (SBI),80079
+TXN00517,B02,Hyderabad B02,Hyderabad,07-05-2025,1915.61,FAILED,WITHDRAWAL,1878,Timeout error,State Bank of India (SBI),20716
+TXN00614,B03,Chennai B03,Chennai,07-05-2025,3682.32,FAILED,TRANSFER,6846,Invalid account,State Bank of India (SBI),97961
+TXN00643,B04,Chennai B04,Chennai,04-05-2025,1967.57,FAILED,WITHDRAWAL,9514,Account blocked,State Bank of India (SBI),71053
+TXN00473,B03,Chennai B03,Chennai,08-05-2025,939.59,FAILED,DEPOSIT,2245,Timeout error,State Bank of India (SBI),58932
+TXN00626,B04,Chennai B04,Chennai,03-05-2025,639.47,FAILED,TRANSFER,3703,Transaction limit exceeded,State Bank of India (SBI),58146
+TXN00608,B02,Hyderabad B02,Hyderabad,05-05-2025,670.84,FAILED,DEPOSIT,4811,Transaction limit exceeded,State Bank of India (SBI),85469
+TXN00588,B02,Kadapa B02,Kadapa,02-05-2025,4354.58,FAILED,DEPOSIT,2494,Invalid account,State Bank of India (SBI),36270
+TXN00459,B03,Hyderabad B03,Hyderabad,08-05-2025,3280.26,FAILED,TRANSFER,8916,Account blocked,State Bank of India (SBI),60145
+TXN00534,B03,Chennai B03,Chennai,02-05-2025,784.99,FAILED,TRANSFER,7516,Invalid account,State Bank of India (SBI),84479
+TXN00536,B02,Chennai B02,Chennai,04-05-2025,4335.9,FAILED,WITHDRAWAL,1793,Insufficient funds,State Bank of India (SBI),35014
+TXN00603,B03,Chennai B03,Chennai,02-05-2025,3127.95,FAILED,DEPOSIT,3615,Insufficient funds,State Bank of India (SBI),16741
+TXN00699,B04,Chennai B04,Chennai,07-05-2025,4772.51,FAILED,TRANSFER,2229,Insufficient funds,State Bank of India (SBI),74769
+TXN00547,B02,Chennai B02,Chennai,03-05-2025,3867.21,FAILED,WITHDRAWAL,8248,Invalid account,State Bank of India (SBI),27284
+TXN00475,B04,Hyderabad B04,Hyderabad,07-05-2025,2101.15,FAILED,WITHDRAWAL,8075,Invalid account,State Bank of India (SBI),11026
+TXN00474,B05,Chennai B05,Chennai,04-05-2025,2285.16,FAILED,WITHDRAWAL,1485,Timeout error,State Bank of India (SBI),53147
+TXN00483,B02,Chennai B02,Chennai,03-05-2025,2213.29,FAILED,DEPOSIT,5405,Timeout error,State Bank of India (SBI),39930
+TXN00582,B05,Chennai B05,Chennai,08-05-2025,2457.42,FAILED,DEPOSIT,4879,Timeout error,State Bank of India (SBI),74308
+TXN00663,B03,Chennai B03,Chennai,03-05-2025,4851.61,FAILED,TRANSFER,5511,Account blocked,State Bank of India (SBI),2009
+TXN00525,B02,Kadapa B02,Kadapa,02-05-2025,3819.26,FAILED,TRANSFER,6744,Transaction limit exceeded,State Bank of India (SBI),16475
+TXN00670,B04,Hyderabad B04,Hyderabad,05-05-2025,3815.29,FAILED,TRANSFER,4111,Timeout error,State Bank of India (SBI),68201
+TXN00589,B04,Hyderabad B04,Hyderabad,04-05-2025,720.28,FAILED,WITHDRAWAL,5262,Invalid account,State Bank of India (SBI),79144
+TXN00661,B02,Chennai B02,Chennai,06-05-2025,3432.14,FAILED,TRANSFER,1328,Insufficient funds,State Bank of India (SBI),24319
+TXN00513,B05,Chennai B05,Chennai,08-05-2025,3524.5,FAILED,WITHDRAWAL,2931,Invalid account,State Bank of India (SBI),11473
+TXN00565,B02,Hyderabad B02,Hyderabad,03-05-2025,4015.06,FAILED,WITHDRAWAL,2934,Insufficient funds,State Bank of India (SBI),42946
+TXN00486,B05,Chennai B05,Chennai,07-05-2025,2560.38,FAILED,DEPOSIT,5991,Insufficient funds,State Bank of India (SBI),18262
+TXN00494,B04,Chennai B04,Chennai,02-05-2025,2196.46,FAILED,WITHDRAWAL,8851,Transaction limit exceeded,State Bank of India (SBI),1007
+TXN00666,B05,Chennai B05,Chennai,04-05-2025,1772.05,FAILED,TRANSFER,2771,Account blocked,State Bank of India (SBI),3054
+TXN00507,B02,Hyderabad B02,Hyderabad,07-05-2025,3382.15,FAILED,WITHDRAWAL,7481,Insufficient funds,State Bank of India (SBI),92919
+TXN00583,B03,Hyderabad B03,Hyderabad,02-05-2025,2268.29,FAILED,TRANSFER,6345,Timeout error,State Bank of India (SBI),61455
+TXN00555,B02,Chennai B02,Chennai,02-05-2025,2619.57,FAILED,DEPOSIT,1273,Transaction limit exceeded,State Bank of India (SBI),10411
+TXN00472,B02,Hyderabad B02,Hyderabad,02-05-2025,4948.15,FAILED,TRANSFER,2284,Transaction limit exceeded,State Bank of India (SBI),25198
+TXN00642,B03,Hyderabad B03,Hyderabad,03-05-2025,4613.78,FAILED,DEPOSIT,2425,Account blocked,State Bank of India (SBI),12356
+TXN00685,B03,Chennai B03,Chennai,06-05-2025,1080.19,FAILED,WITHDRAWAL,9246,Transaction limit exceeded,State Bank of India (SBI),85869
+TXN00569,B05,Chennai B05,Chennai,08-05-2025,698.17,FAILED,DEPOSIT,5006,Insufficient funds,State Bank of India (SBI),60179
+TXN00492,B02,Chennai B02,Chennai,05-05-2025,4089.58,FAILED,TRANSFER,2133,Account blocked,State Bank of India (SBI),64505
+TXN00687,B05,Chennai B05,Chennai,04-05-2025,2858.53,FAILED,WITHDRAWAL,3192,Timeout error,State Bank of India (SBI),53607
+TXN00553,B02,Kadapa B02,Kadapa,05-05-2025,3371.37,FAILED,DEPOSIT,9655,Insufficient funds,State Bank of India (SBI),37544
+TXN00570,B03,Hyderabad B03,Hyderabad,05-05-2025,4641.02,FAILED,DEPOSIT,1579,Transaction limit exceeded,State Bank of India (SBI),47758
+TXN00684,B02,Chennai B02,Chennai,08-05-2025,3545.37,FAILED,TRANSFER,5076,Invalid account,State Bank of India (SBI),53313
+TXN00464,B04,Hyderabad B04,Hyderabad,04-05-2025,1594.44,FAILED,TRANSFER,4700,Timeout error,State Bank of India (SBI),65595
+TXN00671,B02,Chennai B02,Chennai,03-05-2025,2905.86,FAILED,WITHDRAWAL,6873,Transaction limit exceeded,State Bank of India (SBI),60100
+TXN00521,B02,Hyderabad B02,Hyderabad,04-05-2025,1799.02,FAILED,WITHDRAWAL,9115,Transaction limit exceeded,State Bank of India (SBI),87911
+TXN00566,B04,Hyderabad B04,Hyderabad,06-05-2025,2857.34,FAILED,WITHDRAWAL,2262,Account blocked,State Bank of India (SBI),57820
+TXN00700,B02,Hyderabad B02,Hyderabad,05-05-2025,4949.0,FAILED,WITHDRAWAL,5327,Account blocked,State Bank of India (SBI),69278
+TXN00545,B03,Hyderabad B03,Hyderabad,07-05-2025,2222.24,FAILED,DEPOSIT,3340,Insufficient funds,State Bank of India (SBI),46759
+TXN00593,B03,Chennai B03,Chennai,02-05-2025,837.44,FAILED,DEPOSIT,4239,Account blocked,State Bank of India (SBI),59722
+TXN00679,B02,Hyderabad B02,Hyderabad,06-05-2025,4380.77,FAILED,DEPOSIT,2324,Account blocked,State Bank of India (SBI),11391
+TXN00516,B05,Chennai B05,Chennai,03-05-2025,4636.22,FAILED,DEPOSIT,3733,Account blocked,State Bank of India (SBI),14694
+TXN00672,B02,Hyderabad B02,Hyderabad,02-05-2025,3459.27,FAILED,TRANSFER,3967,Timeout error,State Bank of India (SBI),56814
+TXN00468,B02,Kadapa B02,Kadapa,07-05-2025,4555.73,FAILED,TRANSFER,8790,Timeout error,State Bank of India (SBI),18284
+TXN00604,B02,Kadapa B02,Kadapa,06-05-2025,2901.6,FAILED,TRANSFER,1916,Invalid account,State Bank of India (SBI),14000
+TXN00489,B02,Hyderabad B02,Hyderabad,05-05-2025,4859.26,FAILED,WITHDRAWAL,9044,Transaction limit exceeded,State Bank of India (SBI),82742
+TXN00508,B05,Chennai B05,Chennai,07-05-2025,2523.09,FAILED,WITHDRAWAL,7370,Insufficient funds,State Bank of India (SBI),93039
+TXN00682,B04,Chennai B04,Chennai,03-05-2025,2432.34,FAILED,WITHDRAWAL,8821,Account blocked,State Bank of India (SBI),36397
+TXN00662,B02,Hyderabad B02,Hyderabad,03-05-2025,1279.4,FAILED,DEPOSIT,4666,Timeout error,State Bank of India (SBI),98222
+TXN00471,B02,Hyderabad B02,Hyderabad,04-05-2025,1582.12,FAILED,WITHDRAWAL,9856,Timeout error,State Bank of India (SBI),18786
+TXN00628,B05,Chennai B05,Chennai,03-05-2025,4665.08,FAILED,TRANSFER,5346,Timeout error,State Bank of India (SBI),61225
+TXN00564,B03,Hyderabad B03,Hyderabad,04-05-2025,2827.5,FAILED,TRANSFER,5247,Invalid account,State Bank of India (SBI),92551
+TXN00673,B04,Kadapa B04,Kadapa,07-05-2025,3834.14,FAILED,TRANSFER,3999,Timeout error,State Bank of India (SBI),66543
+TXN00481,B05,Kadapa B05,Kadapa,04-05-2025,4029.97,FAILED,WITHDRAWAL,1202,Timeout error,State Bank of India (SBI),27709
+TXN00677,B01,Chennai B01,Chennai,02-05-2025,3563.14,FAILED,TRANSFER,5888,Account blocked,State Bank of India (SBI),57425
